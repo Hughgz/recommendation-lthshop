@@ -1,0 +1,9 @@
+pandas
+pyodbc
+numpy
+pydantic
+datetime
+scikit-learn
+urllib3
+fastapi
+sqlalchemy
