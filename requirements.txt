@@ -3,6 +3,7 @@ pyodbc
 numpy
 pydantic
 datetime
+uvicorn
 scikit-learn
 urllib3
 fastapi
